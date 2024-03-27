@@ -28,7 +28,7 @@
   <header class="mdl-layout__header">
     <div class="mdl-layout__header-row">
       <!-- Title -->
-      <span class="mdl-layout-title">Biblioteca do Gabriel - Área de pesquisa<i class="material-icons">search</i></span>
+      <span class="mdl-layout-title">Biblioteca do Márcio - Área de pesquisa<i class="material-icons">search</i></span>
     </div>
     <!-- Tabs -->
     <div class="mdl-layout__tab-bar mdl-js-ripple-effect">
